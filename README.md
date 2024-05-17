@@ -1,1 +1,1 @@
-Snake game: https://snakes-gamee.netlify.app/
+Snake-game: https://snakes-gamee.netlify.app/
